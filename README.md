@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Larrey: SEO and AI search audit skill for Claude Code and AI agents" width="100%">
+  <img src="assets/banner_larrey.svg" alt="Larrey: SEO and AI search audit skill for Claude Code and AI agents" width="100%">
 </p>
 
 <h1 align="center">Larrey: SEO & AI Search Audit Skill for Claude Code and AI Agents</h1>
